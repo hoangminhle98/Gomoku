@@ -4,4 +4,4 @@
 * In my implementation, players take turn to mark a cell with their color (green for computer and white for human player)
 * The winner is the first player to form an unbroken chain of 5 cells horizontally, vertically, or diagonally.
 Gomoku bot is implemented with MiniMax Algorithm and Alpha-Beta pruning
-* Check it out here https://hoangminhle98.github.io/gomoku/
+* [Check it out](https://hoangminhle98.github.io/gomoku/)
